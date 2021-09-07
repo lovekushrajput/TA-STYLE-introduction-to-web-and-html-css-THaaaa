@@ -1,0 +1,19 @@
+body{
+    color: white;
+    background-color:rgb(34,57,106);
+}
+h2{
+    font-size: 31px;
+    color: rgb(49,183,102);
+}
+h5{
+    color: rgb(49,183,102);
+    font-size: 31px;
+}
+h6{
+    color: rgb(49,183,102);
+    font-size: 31px;
+}
+.heading{
+    color: rgb(211,39,82);
+}
